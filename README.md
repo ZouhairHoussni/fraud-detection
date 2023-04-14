@@ -24,4 +24,4 @@ Dans ce projet, nous allons utiliser Power BI pour analyser des données bancair
 
 ## Sources de données
 
-Les données nécessaires pour ce projet peuvent être collectées à partir de sources publiques ou privées, telles que les institutions financières, les organismes de régulation, les bases de données gouvernementales et les plateformes d'échange de données. Veillez à respecter les réglementations en vigueur concernant la confidentialité et la protection des données lors de l'accès et de l'utilisation de ces sources.
+Les données nécessaires pour ce projet sont collectées à partir de Kaggle depuis ce lien : https://www.kaggle.com/datasets/kartik2112/fraud-detection
